@@ -1,0 +1,24 @@
+.img-wrapper{
+    padding: 5px;
+    float: left;
+    background: #ddd;
+    border: 1px solid rgba(30,140,190,.8);
+    margin: 5px;
+}
+.wd-12{
+    width: 100%;
+    float: left;
+}
+.wd-3{
+    width:33%;
+    float: left;
+}
+.pull-center{
+    text-align: center;
+}
+.pull-left{
+    text-align: left;
+}
+.pull-right{
+    text-align: right;
+}
